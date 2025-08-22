@@ -25,9 +25,10 @@ This project fulfills all the required **user stories** and passes **all 44 test
 ## 📸 Screenshot
 
 ![Survey Form Screenshot](./screenshot-html.png)
+
 ---
 
 ## 📦 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/survey-form.git
+   git clone https://github.com/muhammadnoumanalicoding/survey-form.git
