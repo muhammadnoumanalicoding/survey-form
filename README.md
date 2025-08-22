@@ -18,8 +18,13 @@ This project fulfills all the required **user stories** and passes **all 44 test
 
 ## 🛠️ Technologies Used
 - **HTML5** → structure & form elements  
-- **CSS3** → custom styling (optional)  
+- **CSS3** → custom styling (optional)
+  
+---
 
+## 📸 Screenshot
+
+![Survey Form Screenshot](./screenshot-html.png)
 ---
 
 ## 📦 How to Run
