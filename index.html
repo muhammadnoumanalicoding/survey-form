@@ -8,5 +8,38 @@
   <input id="email" type="email" placeholder="Enter your Email Address" required>
 
   <label id="number-label" for=number>Age (years)</label>
-  <input id="number" type="number" min="10" max="99" required>
+  <input id="number" type="number" min="10" max="99" placeholder="e.g. 25" required>
+
+<label for="dropdown">How did you hear about us?</label>
+<select id="dropdown">
+  <option value="social">Social Media</option>
+  <option value="friend">My Friend</option>
+  <option value="ads">Advertisement</option>
+</select>
+
+<fieldset>
+  <legend>Overall Satisfacton</legend>
+  <label><input type="radio" name="satisfacton" value="excellent">Excellent</label>
+
+  <label><input type="radio" name="satisfacton" value="good">Good</label>
+
+  <label><input type="radio" name="satisfacton" value="fair">Fair</label>
+</fieldset>
+
+<fieldset>
+  <legend>Feature used (select all that apply)</legend>
+  <label><input type="checkbox" name="feature" value="chat">Chat</label>
+
+  <label><input type="checkbox" name="feature" value="search">Search</label>
+
+  <label><input type="checkbox" name="feature" value="order">Order</label>
+</fieldset>
+
+<fieldset>
+  <label for="survey-form">Additional</label>
+  <textarea id="survey-form" placeholder="Write any feedback here"></textarea>
+
+
+<button id="submit" type="survey-form">Submit</button>
+</fieldset>
 </form>
